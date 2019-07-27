@@ -1,2 +1,0 @@
-.home-wrapper{display:flex;flex-direction:column;justify-content:center;text-align:center}@media only screen and (min-width:400px){.home-wrapper{max-width:700px}}.contact-iframe{border:0;width:100%;min-height:calc(100vh - 74px)}.contact-iframe.hidden{display:none}.contact-spinner-wrapper{min-height:calc(50vh - 50px);display:flex;justify-content:center;align-items:center}.top-bar .top-bar-button{margin-right:4px}.router-wrapper{padding-top:16px;padding-left:16px;padding-right:16px;display:flex;justify-content:center}
-/*# sourceMappingURL=main.9bed82fc.chunk.css.map */
